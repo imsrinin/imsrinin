@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imsrinin
 - 👀 I’m interested in ML & Automotive applications
-- 🌱 I’m currently learning Deep Reinforcement Learning
+- 🌱 I’m currently learning 'Deep Reinforcement Learning'
 - 💞️ I’m looking to collaborate on RL/Autonomous Driving projects
 - 📫 How to reach me: snaray23@ncsu.edu
 
